@@ -5,6 +5,7 @@ Project repository for Software Engineering Course, CEN 3, Epoka University, Aca
 GROUPS - A
 
 * Group 3 - Bit7 - Professional Practice Management System for Universities (https://github.com/xhoel-bano/Professional-Practice-Management-System)
+* Group 7 - Travel Agencies Managment System (https://github.com/meginako/TravelAgency)
 * Group 9 - OfCourses (https://github.com/eponari/OfCourses)
 * Group 10 - https://github.com/kevinmamaj/Group10
 
